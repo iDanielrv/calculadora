@@ -1,5 +1,4 @@
-# weather-project
-Node project: how to use a API
+# Calculator
 
 ##  How To Use
 
